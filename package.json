@@ -1,13 +1,13 @@
 {
-  "name": "simple-redux",
+  "name": "some",
   "version": "1.0.0",
-  "description": "redux simple core code",
+  "description": "some javascript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "redux"
+    "principle"
   ],
   "author": "chen",
   "license": "ISC",

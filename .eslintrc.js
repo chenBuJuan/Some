@@ -23,5 +23,7 @@ module.exports = {
         "no-restricted-syntax": 0,
         'react/forbid-prop-types': 0,
         'react/require-default-props': 0,
+        "semi": 0,
+        "no-console": 0,
     }
 };
